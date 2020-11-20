@@ -1,0 +1,3 @@
+/Users/ritik/Documents/SEM_5/OS/OS_implementation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ritik/Documents/SEM_5/OS/OS_implementation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ritik/Documents/SEM_5/OS/OS_implementation/cmake-build-debug/CMakeFiles/OS_implementation.dir
